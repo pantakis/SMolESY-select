@@ -1,0 +1,23 @@
+##TITLE= Audit trail, TopSpin 3.6.2
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ D:/IVDrData/data/Halliday-TRED/nmr/Halliday-TRED_Serum_Rack1_NA_090720/20/audita.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2020-07-09 14:02:43.405 +0100>,<nmrsu>,<ipc-nmr-02>,<go4>,<TopSpin 3.6.2>,
+      <created by zg
+	started at 2020-07-09 13:58:35.122 +0100,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       B0 C0 29 14 98 AF 4A ED D9 73 7C A5 81 3B 00 44
+       data hash MD5: 96K
+       60 2B 8E 23 C2 32 57 7F 58 9F 4A 9E F6 49 98 73>)
+(   2,<2020-07-09 14:02:44.123 +0100>,<nmrsu>,<ipc-nmr-02>,<audit>,<TopSpin 3.6.2>,
+      <user comment:
+       ICON-NMR User ID: nmrsu
+       data hash MD5: 96K
+       60 2B 8E 23 C2 32 57 7F 58 9F 4A 9E F6 49 98 73>)
+##END=
+
+$$ hash MD5
+$$ A8 5F 9D D8 82 BF BA 5B A2 5D 4F 47 C8 B1 CA B7

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList>
+  <PeakList1D>
+    <PeakList1DHeader creator="nmrsu" date="2020-07-10T01:03:41.211+01:00" expNo="310" name="Halliday-TRED_Serum_Rack1_NA_090720" owner="" procNo="1" source="D:\IVDrData\data\Halliday-TRED\nmr">
+      <PeakPickDetails>F1=1.518453ppm, F2=1.506397ppm, MI=50.00cm, MAXI=10000.00cm, PC=4.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="1.512425" intensity="1.000000e+002" type="0"/>
+  </PeakList1D>
+</PeakList>

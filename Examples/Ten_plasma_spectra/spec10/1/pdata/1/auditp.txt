@@ -1,0 +1,32 @@
+##TITLE= Audit trail, TopSpin 3.6.2
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ D:\IVDrData\data\Halliday-TRED\nmr/Halliday-TRED_Serum_Rack1_NA_090720/770/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2020-07-10 18:54:52.269 +0100>,<nmrsu>,<ipc-nmr-02>,<go4>,<TopSpin 3.6.2>,
+      <created by zg
+	started at 2020-07-10 18:50:43.911 +0100,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       B0 C0 29 14 98 AF 4A ED D9 73 7C A5 81 3B 00 44
+       data hash MD5: 96K
+       8A B0 74 BE 6D 90 5A 85 E8 0E D1 89 0D EA FE B6>)
+(   2,<2020-07-10 18:54:53.024 +0100>,<nmrsu>,<ipc-nmr-02>,<audit>,<TopSpin 3.6.2>,
+      <user comment:
+       ICON-NMR User ID: nmrsu
+       data hash MD5: 96K
+       8A B0 74 BE 6D 90 5A 85 E8 0E D1 89 0D EA FE B6>)
+(   3,<2020-07-10 18:54:55.286 +0100>,<nmrsu>,<ipc-nmr-02>,<proc1d>,<TopSpin 3.6.2>,
+      <Start of raw data processing
+       efp LB = 0.3 FT_mod = 6 PKNL = 1 PHC0 = 78.39844 PHC1 = 0 SI = 128K 
+       data hash MD5: 128K
+       0E CE 6A 04 25 A0 74 B5 5B 69 6F F8 71 A9 32 44>)
+(   4,<2020-07-10 18:54:55.919 +0100>,<nmrsu>,<ipc-nmr-02>,<proc1d>,<TopSpin 3.6.2>,
+      <adderetic ELW = 0.75 EPOS = 15 EINT = 1.632761e+008 
+       data hash MD5: 128K
+       F5 FA 91 5F E3 5C 03 69 AD F1 A8 D6 37 07 82 97>)
+##END=
+
+$$ hash MD5
+$$ F7 37 C3 E5 0F 2D 60 5B 35 BD 25 71 5E A9 48 08
