@@ -1,0 +1,18 @@
+NOESYGPPR1D Bodyfluid NMR SOP validation
+---------------------------------------------------
+D:\IVDrData\data\Halliday-TRED\nmr/Halliday-TRED_Serum_Rack2_NA_070720/180/pdata/1/1r
+Acquisition at: 2020-07-07-20-39-38
+Probe head: Z814601_0069 (PA BBI 600S3 H-BB-D-05 Z)
+Sample info:    5mm Plasma sample
+Parameter set: PROF_PLASMA_NOESY
+Solvent: Plasma
+
+---------------------------------------------------
+Pulse P1:  11.22us
+Power PLdB1: -10.30dB
+Power PLdB9:  48.70dB
+RF Presat:  25.00Hz
+Frequency Offset O1: 2823.33Hz
+Halfwidth of Alanine (<1.50Hz):   1.06Hz
+Residual Solvent Signal (<30.0mmol/L):   13.2mmol/L
+Bodyfluid NMR parameters within acceptance range

@@ -3,7 +3,7 @@ line no.  pc   label
       20 0xffffffff 1
       27 0xffffffff 2
 
-pulse program: "D:/IVDrData/data/Halliday-TRED/nmr/Halliday-TRED_Serum_Rack1_NA_090720/430/stanprogram1264"
+pulse program: "D:/IVDrData/data/Halliday-TRED/nmr/Halliday-TRED_Serum_Rack2_NA_070720/180/stanprogram1264"
 ================
 dur0 == line 0
 fixdel(1.000000 usec) 

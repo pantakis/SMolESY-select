@@ -2,31 +2,31 @@
 ##JCAMPDX= 5.01
 ##ORIGIN= Bruker BioSpin GmbH
 ##OWNER= nmrsu
-$$ D:\IVDrData\data\Halliday-TRED\nmr/Halliday-TRED_Serum_Rack1_NA_090720/430/pdata/1/auditp.txt
+$$ D:\IVDrData\data\Halliday-TRED\nmr/Halliday-TRED_Serum_Rack2_NA_070720/180/pdata/1/auditp.txt
 ##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
-(   1,<2020-07-10 05:55:37.335 +0100>,<nmrsu>,<ipc-nmr-02>,<go4>,<TopSpin 3.6.2>,
+(   1,<2020-07-07 20:39:38.443 +0100>,<nmrsu>,<ipc-nmr-02>,<go4>,<TopSpin 3.6.2>,
       <created by zg
-	started at 2020-07-10 05:51:29.035 +0100,
+	started at 2020-07-07 20:35:30.185 +0100,
 	POWCHK enabled, PULCHK disabled,
        configuration hash MD5:
        B0 C0 29 14 98 AF 4A ED D9 73 7C A5 81 3B 00 44
        data hash MD5: 96K
-       28 45 D4 1F 79 49 23 71 D2 23 9B 7A 0A E2 F6 6B>)
-(   2,<2020-07-10 05:55:38.174 +0100>,<nmrsu>,<ipc-nmr-02>,<audit>,<TopSpin 3.6.2>,
+       50 92 9B 25 7B 93 9B ED 0E 90 A8 66 E7 4A 75 7D>)
+(   2,<2020-07-07 20:39:39.175 +0100>,<nmrsu>,<ipc-nmr-02>,<audit>,<TopSpin 3.6.2>,
       <user comment:
        ICON-NMR User ID: nmrsu
        data hash MD5: 96K
-       28 45 D4 1F 79 49 23 71 D2 23 9B 7A 0A E2 F6 6B>)
-(   3,<2020-07-10 05:55:40.426 +0100>,<nmrsu>,<ipc-nmr-02>,<proc1d>,<TopSpin 3.6.2>,
+       50 92 9B 25 7B 93 9B ED 0E 90 A8 66 E7 4A 75 7D>)
+(   3,<2020-07-07 20:39:41.512 +0100>,<nmrsu>,<ipc-nmr-02>,<proc1d>,<TopSpin 3.6.2>,
       <Start of raw data processing
-       efp LB = 0.3 FT_mod = 6 PKNL = 1 PHC0 = 78.92578 PHC1 = 0 SI = 128K 
+       efp LB = 0.3 FT_mod = 6 PKNL = 1 PHC0 = 78.34351 PHC1 = 0 SI = 128K 
        data hash MD5: 128K
-       E5 4B 7B 55 38 51 EE BF E5 1A 7A 3D BE AE 6D C5>)
-(   4,<2020-07-10 05:55:41.059 +0100>,<nmrsu>,<ipc-nmr-02>,<proc1d>,<TopSpin 3.6.2>,
-      <adderetic ELW = 0.75 EPOS = 15 EINT = 1.629832e+008 
+       CF BE F2 86 AA DC D2 61 0B 85 B5 08 4C 69 97 CE>)
+(   4,<2020-07-07 20:39:42.136 +0100>,<nmrsu>,<ipc-nmr-02>,<proc1d>,<TopSpin 3.6.2>,
+      <adderetic ELW = 0.75 EPOS = 15 EINT = 1.619664e+008 
        data hash MD5: 128K
-       6B 2B 81 A4 37 70 5D 44 2B 94 E8 EE 7C 44 37 4D>)
+       85 21 8F D3 FC 26 90 22 56 1D 43 D2 A5 86 A2 E3>)
 ##END=
 
 $$ hash MD5
-$$ 0E 95 FD 37 6B 7A 0A 36 46 FF 7D 7C C6 29 25 76
+$$ A5 45 AB F2 7C B4 82 70 99 7F E8 19 D6 9E 74 76

@@ -4,8 +4,8 @@
 ##NPOINTS= 31	$$ modification sequence number
 ##ORIGIN= Bruker BioSpin GmbH
 ##OWNER= nmrsu
-$$ 2020-07-10 05:55:40.380 +0100  nmrsu@ipc-nmr-02
-$$ D:\IVDrData\data\Halliday-TRED\nmr/Halliday-TRED_Serum_Rack1_NA_090720/430/pdata/1/proc
+$$ 2020-07-07 20:39:41.450 +0100  nmrsu@ipc-nmr-02
+$$ D:\IVDrData\data\Halliday-TRED\nmr/Halliday-TRED_Serum_Rack2_NA_070720/180/pdata/1/proc
 $$ process C:\Bruker\TopSpin3.6.2\prog\au\bin\FC793402CBCC7910CA61BB3FA5A8FE92\ivdr_bodyfluid_validation.exe
 ##$ABSF1= 1.542
 ##$ABSF2= 1.408
@@ -36,8 +36,8 @@ $$ process C:\Bruker\TopSpin3.6.2\prog\au\bin\FC793402CBCC7910CA61BB3FA5A8FE92\i
 ##$DFILT= <>
 ##$DTYPP= 0
 ##$ERETIC= no
-##$F1P= 1.5122425
-##$F2P= 1.5001915
+##$F1P= 1.509098
+##$F2P= 1.497038
 ##$FCOR= 0.5
 ##$FTSIZE= 65536
 ##$FT_mod= 0
@@ -85,9 +85,9 @@ $$ process C:\Bruker\TopSpin3.6.2\prog\au\bin\FC793402CBCC7910CA61BB3FA5A8FE92\i
 ##$NSP= 1
 ##$NTH_PI= 0
 ##$NZP= 0
-##$OFFSET= 19.70872
+##$OFFSET= 19.70525
 ##$PC= 1
-##$PHC0= 78.92578
+##$PHC0= 78.34351
 ##$PHC1= 0
 ##$PH_mod= 1
 ##$PKNL= yes
@@ -105,7 +105,7 @@ $$ process C:\Bruker\TopSpin3.6.2\prog\au\bin\FC793402CBCC7910CA61BB3FA5A8FE92\i
 ##$RDINT= 0
 ##$RDPOS= 0
 ##$REVERSE= no
-##$SF= 600.450003653061
+##$SF= 600.450005736716
 ##$SI= 131072
 ##$SIGF1= 9
 ##$SIGF2= 5
@@ -123,12 +123,12 @@ $$ process C:\Bruker\TopSpin3.6.2\prog\au\bin\FC793402CBCC7910CA61BB3FA5A8FE92\i
 ##$TDeff= 0
 ##$TDoff= 0
 ##$TI= <
-PROF_PLASMA_NOESY Plasma {D:\IVDrData\data\Halliday-TRED\nmr} nmrsu {3>
+PROF_PLASMA_NOESY Plasma {D:\IVDrData\data\Halliday-TRED\nmr} nmrsu {2>
 ##$TILT= no
 ##$TM1= 0
 ##$TM2= 0
 ##$TOPLEV= 0
-##$USERP1= <3733.56735031>
+##$USERP1= <3710.27414937>
 ##$USERP2= <>
 ##$USERP3= <>
 ##$USERP4= <>
