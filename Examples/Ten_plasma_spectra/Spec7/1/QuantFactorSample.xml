@@ -47,20 +47,20 @@
         </Eretic>
         <Application Name="PlasmaScreening">
             <Application_Parameter>
-                <Eretic_Factor>3733.56735031</Eretic_Factor>
+                <Eretic_Factor>3710.27414937</Eretic_Factor>
                 <Experiment_Description>
                     <Instrument>ipc-nmr-02</Instrument>
-                    <AcquisitionDate>2020/07/10 05:55:37</AcquisitionDate>
-                    <Temperature>310.0011</Temperature>
+                    <AcquisitionDate>2020/07/07 20:39:38</AcquisitionDate>
+                    <Temperature>309.9992</Temperature>
                     <Solvent>Plasma</Solvent>
                     <Pulprog>noesygppr1d</Pulprog>
-                    <Dataset>D:\IVDrData\data\Halliday-TRED\nmr\Halliday-TRED_Serum_Rack1_NA_090720\430\pdata\1\1r</Dataset>
+                    <Dataset>D:\IVDrData\data\Halliday-TRED\nmr\Halliday-TRED_Serum_Rack2_NA_070720\180\pdata\1\1r</Dataset>
                     <Powerlevel>
                         <PLDB1>-10.29992</PLDB1>
-                        <PLDB9>48.75458</PLDB9>
+                        <PLDB9>48.70022</PLDB9>
                     </Powerlevel>
                     <Pulses>
-                        <P1>11.15</P1>
+                        <P1>11.22</P1>
                     </Pulses>
                     <NS>32</NS>
                     <DS>4</DS>

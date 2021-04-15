@@ -1,5 +1,6 @@
 Spectra titles / Sample type -->,Plasma_EDTA,Plasma_Citrate,Plasma_Heparin_OR_Serum
 Spec1,NO,NO,YES
+Spec10,NO,NO,YES
 Spec2,NO,NO,YES
 Spec3,NO,NO,YES
 Spec4,NO,NO,YES
@@ -8,4 +9,3 @@ Spec6,NO,NO,YES
 Spec7,NO,NO,YES
 Spec8,NO,NO,YES
 Spec9,NO,NO,YES
-spec10,NO,NO,YES
